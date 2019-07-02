@@ -22,6 +22,7 @@
 
   <modules>
 	  <module>database</module>
+	  <module>business</module>
   </modules>
 
   <dependencies>

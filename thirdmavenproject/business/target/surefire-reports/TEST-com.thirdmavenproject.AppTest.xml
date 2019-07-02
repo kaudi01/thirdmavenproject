@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.thirdmavenproject.AppTest" time="0.276" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.thirdmavenproject.AppTest" time="0.262" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/database/target/test-classes:/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/database/target/classes:/home/abhi/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/abhi/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.class.path" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/business/target/test-classes:/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/business/target/classes:/home/abhi/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/abhi/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
@@ -16,9 +16,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/database/target/surefire/surefirebooter6391195641831561113.jar /home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/database/target/surefire 2019-07-03T01-11-47_614-jvmRun1 surefire9820926063127556019tmp surefire_014328722704442679687tmp"/>
+    <property name="sun.java.command" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/business/target/surefire/surefirebooter4105872087098377052.jar /home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/business/target/surefire 2019-07-03T01-11-47_614-jvmRun1 surefire13701020291471792729tmp surefire_118047442269199570597tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/database/target/test-classes:/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/database/target/classes:/home/abhi/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/abhi/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="surefire.test.class.path" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/business/target/test-classes:/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/business/target/classes:/home/abhi/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/abhi/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/abhi"/>
     <property name="user.language" value="en"/>
@@ -26,13 +26,13 @@
     <property name="java.version.date" value="2019-04-16"/>
     <property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/database"/>
+    <property name="basedir" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/business"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/database/target/surefire/surefirebooter6391195641831561113.jar"/>
+    <property name="surefire.real.class.path" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/business/target/surefire/surefirebooter4105872087098377052.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.3+7-Ubuntu-1ubuntu218.04.1"/>
     <property name="user.name" value="abhi"/>
@@ -45,7 +45,7 @@
     <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="java.version" value="11.0.3"/>
-    <property name="user.dir" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/database"/>
+    <property name="user.dir" value="/home/abhi/Desktop/Project/thirdmavenproject/thirdmavenproject/business"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.thirdmavenproject.AppTest" time="0.012"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.thirdmavenproject.AppTest" time="0.005"/>
 </testsuite>
